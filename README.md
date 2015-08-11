@@ -1,6 +1,6 @@
-#site-template2
+# site-template2
 
-##Feature
+## Feature
 
 - DOCTYPE HTML5 Format
 - include jQuery 2.x latest
